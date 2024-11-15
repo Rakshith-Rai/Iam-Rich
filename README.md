@@ -1,6 +1,8 @@
 # imrich
 
-A new Flutter project.
+Learning Flutter #1 app
+
+Iam Rich app clone which was on playstore and appstore few times ago which cost $999.99
 
 ## Getting Started
 
